@@ -81,7 +81,7 @@ namespace Queue
             this.groupBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupBox1.Location = new System.Drawing.Point(12, 12);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(444, 426);
+            this.groupBox1.Size = new System.Drawing.Size(563, 494);
             this.groupBox1.TabIndex = 0;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Display";
@@ -90,7 +90,7 @@ namespace Queue
             // lbl4
             // 
             this.lbl4.Font = new System.Drawing.Font("Microsoft Sans Serif", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbl4.Location = new System.Drawing.Point(287, 267);
+            this.lbl4.Location = new System.Drawing.Point(309, 314);
             this.lbl4.Name = "lbl4";
             this.lbl4.Size = new System.Drawing.Size(155, 106);
             this.lbl4.TabIndex = 7;
@@ -100,7 +100,7 @@ namespace Queue
             // lbl3
             // 
             this.lbl3.Font = new System.Drawing.Font("Microsoft Sans Serif", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbl3.Location = new System.Drawing.Point(20, 267);
+            this.lbl3.Location = new System.Drawing.Point(20, 314);
             this.lbl3.Name = "lbl3";
             this.lbl3.Size = new System.Drawing.Size(155, 106);
             this.lbl3.TabIndex = 6;
@@ -110,7 +110,7 @@ namespace Queue
             // lbl2
             // 
             this.lbl2.Font = new System.Drawing.Font("Microsoft Sans Serif", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbl2.Location = new System.Drawing.Point(287, 103);
+            this.lbl2.Location = new System.Drawing.Point(309, 103);
             this.lbl2.Name = "lbl2";
             this.lbl2.Size = new System.Drawing.Size(146, 106);
             this.lbl2.TabIndex = 5;
@@ -131,7 +131,7 @@ namespace Queue
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(310, 223);
+            this.label4.Location = new System.Drawing.Point(332, 270);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(98, 32);
             this.label4.TabIndex = 3;
@@ -141,7 +141,7 @@ namespace Queue
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(49, 223);
+            this.label3.Location = new System.Drawing.Point(49, 270);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(98, 32);
             this.label3.TabIndex = 2;
@@ -151,7 +151,7 @@ namespace Queue
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(310, 72);
+            this.label2.Location = new System.Drawing.Point(332, 72);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(98, 32);
             this.label2.TabIndex = 1;
@@ -353,7 +353,7 @@ namespace Queue
             this.panel1.Controls.Add(this.panel2);
             this.panel1.Controls.Add(this.lbldate);
             this.panel1.Controls.Add(this.lbltime);
-            this.panel1.Location = new System.Drawing.Point(612, 29);
+            this.panel1.Location = new System.Drawing.Point(663, 32);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(270, 128);
             this.panel1.TabIndex = 5;
